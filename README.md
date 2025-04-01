@@ -8,4 +8,4 @@ I love learning new things and am currently reading too many books/manuscripts a
 
 I am also working on an R package called `indexr` (pinned). It is currently in progress, but the intention is to make the management of a large number of simulation files (or results) less of a nusance so that the focus can be put on the research itself. If it sounds like something you are interested it, take a look and give me feedback!!
 
-For more information about my work see my personal site: https://lharris421.github.io/repositories/ (in progress)
+For more information about my work see my personal site: https://lharris421.github.io (in progress)
